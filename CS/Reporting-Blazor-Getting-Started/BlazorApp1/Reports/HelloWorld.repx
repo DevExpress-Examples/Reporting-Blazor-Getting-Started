@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="20.1.2.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v20.1, Version=20.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="HelloWorld" PageWidth="850" PageHeight="1100" Version="20.1">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="topMarginBand1" />
+    <Item2 Ref="2" ControlType="DetailBand" Name="detailBand1">
+      <Controls>
+        <Item1 Ref="3" ControlType="XRLabel" Name="label1" Multiline="true" Text="Hello, World!" TextAlignment="MiddleCenter" SizeF="650,65.41665" LocationFloat="0,10.0000067" Font="Verdana, 18pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="4" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+      </Controls>
+    </Item2>
+    <Item3 Ref="5" ControlType="BottomMarginBand" Name="bottomMarginBand1" />
+  </Bands>
+</XtraReportsLayoutSerializer>
