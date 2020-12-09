@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="PredefinedReports\HelloWorld.repx" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="PredefinedReports\HelloWorld.repx" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Blazor.Reporting" Version="20.2.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="PredefinedReports\HelloWorld.cs">
+      <DependentUpon>HelloWorld.repx</DependentUpon>
+    </Compile>
+    <Compile Update="PredefinedReports\HelloWorld.Designer.cs">
+      <DependentUpon>HelloWorld.repx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+</Project>
