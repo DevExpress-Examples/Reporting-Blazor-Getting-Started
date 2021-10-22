@@ -9,7 +9,7 @@
     <EmbeddedResource Include="PredefinedReports\HelloWorld.repx" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Blazor.Reporting.JSBasedControls" Version="21.1.*-pre-*" />
+    <PackageReference Include="DevExpress.Blazor.Reporting.JSBasedControls" Version="21.2.3-pre-21295" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="PredefinedReports\HelloWorld.cs">
