@@ -6,8 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Blazor" Version="22.2.*-*" />
-    <PackageReference Include="DevExpress.Blazor.Reporting.JSBasedControls.BlazorServer" Version="22.2.*-*" />
+    <PackageReference Include="DevExpress.Blazor" Version="23.1.*-*" />
+    <PackageReference Include="DevExpress.Blazor.Reporting.JSBasedControls.BlazorServer" Version="23.1.*-*" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\images\" />
