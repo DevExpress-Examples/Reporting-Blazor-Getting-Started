@@ -6,7 +6,7 @@
 
 This example is created by following instructions of the [Create a Blazor Reporting (JavaScript-Based) Application](https://docs.devexpress.com/XtraReports/401677) tutorial. 
 
-The project demonstrates the base functionality of the [Document Viewer](https://devexpress.github.io/dotnet-eud/interface-elements-for-web/articles/document-viewer.html) and [Report Designer](https://devexpress.github.io/dotnet-eud/interface-elements-for-web/articles/report-designer.html) controls in a [DevExpress Blazor](https://www.devexpress.com/blazor/) application.
+The project demonstrates the base functionality of the [Document Viewer](https://devexpress.github.io/dotnet-eud/reporting-for-web/articles/document-viewer.html) and [Report Designer](https://devexpress.github.io/dotnet-eud/reporting-for-web/articles/report-designer.html) controls in a [DevExpress Blazor](https://www.devexpress.com/blazor/) application.
 
 ## Documentation
 
