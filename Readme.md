@@ -12,7 +12,7 @@ The project demonstrates the base functionality of the [Document Viewer](https:/
 
 ## Documentation
 
-- [Document Viewer and Designer for Blazor Server (JavaScript-Based)](https://docs.devexpress.com/XtraReports/403595/web-reporting/blazor-reporting/blazor-viewer-designer-js-based?v=22.2)
+- [Document Viewer and Designer for Blazor Server (JavaScript-Based)](https://docs.devexpress.com/XtraReports/403595/web-reporting/blazor-reporting/blazor-viewer-designer-js-based)
 
 ## More Examples
 
@@ -29,3 +29,4 @@ For more information about the Blazor Reporting components review the following 
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
