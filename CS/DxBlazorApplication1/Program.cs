@@ -14,9 +14,6 @@ builder.Services.AddDevExpressBlazor();
 builder.Services.AddDevExpressBlazorReporting();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddScoped<ReportStorageWebExtension, CustomReportStorageWebExtension>();
-builder.Services.Configure<DevExpress.Blazor.Configuration.GlobalOptions>(options => {
-    options.BootstrapVersion = DevExpress.Blazor.BootstrapVersion.v5;
-});
 builder.WebHost.UseWebRoot("wwwroot");
 builder.WebHost.UseStaticWebAssets();
 
